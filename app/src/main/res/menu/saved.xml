@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sort"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Sort"
+        app:showAsAction="always|collapseActionView">
+        <menu>
+            <group
+                android:checkableBehavior="single"
+                android:enabled="true">
+                <item
+                    android:id="@+id/menu_name"
+                    android:checkable="true"
+                    android:checked="true"
+                    android:enabled="true"
+                    android:title="Name"
+                    android:visible="true" />
+                <item
+                    android:id="@+id/menu_date"
+                    android:checkable="true"
+                    android:enabled="true"
+                    android:title="Date"
+                    android:visible="true" />
+            </group>
+        </menu>
+    </item>
+</menu>

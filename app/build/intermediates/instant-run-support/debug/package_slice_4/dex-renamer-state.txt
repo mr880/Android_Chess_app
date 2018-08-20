@@ -1,0 +1,4 @@
+#Wed Dec 13 16:13:42 EST 2017
+base.0=C\:\\Users\\mkasa\\Desktop\\ChessApp67\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\100
+path.0=classes.dex
+renamed.0=classes.dex

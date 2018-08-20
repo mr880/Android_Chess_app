@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\mkasa\Desktop\ChessApp67\app\src\main\assets"><file name="fonts/Symbola.ttf" path="C:\Users\mkasa\Desktop\ChessApp67\app\src\main\assets\fonts\Symbola.ttf"/></source><source path="C:\Users\mkasa\Desktop\ChessApp67\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\mkasa\Desktop\ChessApp67\app\src\debug\assets"/></dataSet></merger>
